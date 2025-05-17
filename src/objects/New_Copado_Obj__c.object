@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>fieldOne__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>fieldOne</label>
         <length>30</length>
         <required>false</required>
